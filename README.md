@@ -21,8 +21,8 @@
 [![Quesillo Studios | Website](https://img.shields.io/website?down_color=lightgrey&down_message=Woops%21&label=Quesillo%20Studio&up_color=yellow&up_message=WIP&url=https%3A%2F%2Fquesillostudios.com)](https://quesillo.me)
 
 ### Tools that I use 🔨
-[![Unity](https://img.shields.io/static/v1?label=Unity&message=⭐⭐⭐&color=blue&style=for-the-badge&logo=unity)](#)
-[![Visual Studio Code](https://img.shields.io/static/v1?label=VS%20Code&message=⭐⭐⭐&color=blue&style=for-the-badge&logo=visual-studio-code)](#)
-[![Krita](https://img.shields.io/static/v1?label=Godot&message=⭐⭐⭐&color=blue&style=for-the-badge&logo=krita)](#)
-[![Affinity Designer](https://img.shields.io/static/v1?label=Affinity%20Designer&message=⭐⭐&color=blue&style=for-the-badge&logo=affinity-designer)](#)
+[![Unity](https://img.shields.io/static/v1?label=Unity&message=⭐⭐⭐&color=blue&style=for-the-badge&logo=unity&logoColor=white)](#)
+[![Visual Studio Code](https://img.shields.io/static/v1?label=VS%20Code&message=⭐⭐⭐&color=blue&style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
+[![Krita](https://img.shields.io/static/v1?label=Krita&message=⭐⭐⭐&color=blue&style=for-the-badge&logo=krita&logoColor=white)](#)
+[![Affinity Designer](https://img.shields.io/static/v1?label=Affinity%20Designer&message=⭐⭐&color=blue&style=for-the-badge&logo=affinity-designer&logoColor=white)](#)
 [![Affinity Photo](https://img.shields.io/static/v1?label=Affinity%20Photo&message=⭐⭐&color=blue&style=for-the-badge&logo=affinity-photo&logoColor=white)](#)
