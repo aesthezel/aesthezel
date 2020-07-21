@@ -1,8 +1,8 @@
 ## Hola, I'm David Pino 🥨
-*I'm Game Developer and Concept Artist*
+*I'm a Game Developer and Concept Artist*
 
 ### About me 🏓
-- 🎓 I’m studing Fine Arts (Promo 2022 *maybe*)
+- 🎓 I study Fine Arts (Promo 2022 *maybe*)
 - 🎮 I’m working on Game Develop (Since 2018)
 - 📐 I’m currently developing E-learning Game Developing guides called **gAAAmedev**.
 - 💾 I’m learning about **shaders** `.hlsl` and *Shader Graph*.
