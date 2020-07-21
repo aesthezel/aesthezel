@@ -22,7 +22,7 @@
 
 ### Tools that I use 🔨
 [![Unity](https://img.shields.io/static/v1?label=Unity&message=⭐⭐⭐&color=blue&style=for-the-badge&logo=unity)](#)
-[![Godot](https://img.shields.io/static/v1?label=Godot&message=⭐⭐&color=blue&style=for-the-badge&logo=godot)](#)
 [![Visual Studio Code](https://img.shields.io/static/v1?label=VS%20Code&message=⭐⭐⭐&color=blue&style=for-the-badge&logo=visual-studio-code)](#)
+[![Krita](https://img.shields.io/static/v1?label=Godot&message=⭐⭐⭐&color=blue&style=for-the-badge&logo=krita)](#)
 [![Affinity Designer](https://img.shields.io/static/v1?label=Affinity%20Designer&message=⭐⭐&color=blue&style=for-the-badge&logo=affinity-designer)](#)
 [![Affinity Photo](https://img.shields.io/static/v1?label=Affinity%20Photo&message=⭐⭐&color=blue&style=for-the-badge&logo=affinity-photo&logoColor=white)](#)
