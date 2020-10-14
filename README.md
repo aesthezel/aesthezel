@@ -4,7 +4,7 @@
 ### About me 🏓
 - 🎓 I study Fine Arts (Promo 2022 *maybe*)
 - 🎮 I’m working on Game Develop (Since 2018)
-- 📐 I’m currently developing E-learning Game Developing guides called **gAAAmedev**.
+- 📐 I’m currently developing E-learning Game Developing guides called [**gAAAmedev**](https://www.youtube.com/playlist?list=PLPI6-ufVFSM3C-gLUTmQs87B7aQdxOZjI) _only in Spanish for now_.
 - 💾 I’m learning about **shaders** `.hlsl` and *Shader Graph*.
 - 💊 I use everyday `.cs`, `.js`, `.scss`, `.py`, `.gdscript`.
 
