@@ -16,12 +16,14 @@
 [![Quesillo Studios | Discord](https://img.shields.io/discord/652894509302153216?color=yellow&label=Quesillo%20Studios&logo=discord&logoColor=white)](http://quesillo.me/discord)
 
 ### My websites 🌎
-[![Aesthezel's | Portfolio](https://img.shields.io/website?down_color=lightgrey&down_message=Woops%21&label=Portfolio&up_color=green&up_message=Working&url=https%3A%2F%2Faesthezel.site)](https://aesthezel.site)
+[![Aesthezel's | Portfolio](https://img.shields.io/website?down_color=lightgrey&down_message=Woops%21&label=Portfolio&up_color=red&up_message=Updating&url=https%3A%2F%2Faesthezel.site)](https://aesthezel.site)
 [![Quesillo Studios | Website](https://img.shields.io/website?down_color=lightgrey&down_message=Woops%21&label=Quesillo%20Studio&up_color=yellow&up_message=WIP&url=https%3A%2F%2Fquesillostudios.com)](https://quesillo.me)
 
 ### Tools that I use 🔨
-[![Unity](https://img.shields.io/static/v1?label=Unity&message=⭐⭐⭐&color=blue&style=for-the-badge&logo=unity&logoColor=white)](#)
-[![Visual Studio Code](https://img.shields.io/static/v1?label=VS%20Code&message=⭐⭐⭐&color=blue&style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
-[![Krita](https://img.shields.io/static/v1?label=Krita&message=⭐⭐⭐&color=blue&style=for-the-badge&logo=krita&logoColor=white)](#)
+[![Unity](https://img.shields.io/static/v1?label=Unity&message=⭐⭐⭐⭐&color=blue&style=for-the-badge&logo=unity&logoColor=white)](#)
+[![Godot Engine](https://img.shields.io/static/v1?label=Godot%20Engine&message=⭐⭐⭐⭐&color=blue&style=for-the-badge&logo=godot-engine&logoColor=white)](#)
+[![Visual Studio Code](https://img.shields.io/static/v1?label=VS%20Code&message=⭐⭐⭐⭐&color=blue&style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
+[![Krita](https://img.shields.io/static/v1?label=Krita&message=⭐⭐⭐⭐⭐&color=blue&style=for-the-badge&logo=krita&logoColor=white)](#)
 [![Affinity Designer](https://img.shields.io/static/v1?label=Affinity%20Designer&message=⭐⭐&color=blue&style=for-the-badge&logo=affinity-designer&logoColor=white)](#)
 [![Affinity Photo](https://img.shields.io/static/v1?label=Affinity%20Photo&message=⭐⭐&color=blue&style=for-the-badge&logo=affinity-photo&logoColor=white)](#)
+[![Band Lab](https://img.shields.io/static/v1?label=BandLab&message=⭐⭐⭐&color=blue&style=for-the-badge&logo=bandlab&logoColor=white)](https://www.bandlab.com/aesthezel)
