@@ -6,7 +6,7 @@
 - 🎮 I’m working on Game Develop (Since 2018)
 - 📐 I’m currently developing E-learning Game Developing guides called [**gAAAmedev**](https://www.youtube.com/playlist?list=PLPI6-ufVFSM3C-gLUTmQs87B7aQdxOZjI) _only in Spanish for now_.
 - 💾 I’m learning about **shaders** `.hlsl` and *Shader Graph*.
-- 💊 I use everyday `.cs`, `.js`, `.scss`, `.py`, `.gdscript`.
+- 💊 I use everyday `.cs`, `.js`, `.cpp`, `.py`, `.gdscript`.
 
 ### Contact me 🤝
 ##### Social links
@@ -16,8 +16,8 @@
 [![Quesillo Studios | Discord](https://img.shields.io/discord/652894509302153216?color=yellow&label=Quesillo%20Studios&logo=discord&logoColor=white)](http://quesillo.me/discord)
 
 ### My websites 🌎
-[![Aesthezel's | Portfolio](https://img.shields.io/website?down_color=lightgrey&down_message=Woops%21&label=Portfolio&up_color=red&up_message=Updating&url=https%3A%2F%2Faesthezel.site)](https://aesthezel.site)
-[![Quesillo Studios | Website](https://img.shields.io/website?down_color=lightgrey&down_message=Woops%21&label=Quesillo%20Studio&up_color=yellow&up_message=WIP&url=https%3A%2F%2Fquesillostudios.com)](https://quesillo.me)
+[![Aesthezel's | Portfolio](https://img.shields.io/website?down_color=lightgrey&down_message=Woops%21&label=Portfolio&up_color=red&up_message=Updating&url=https%3A%2F%2Faesthezel.site)](quesillo.me/aesthezel)
+[![Quesillo Studios | Website](https://img.shields.io/website?down_color=lightgrey&down_message=Woops%21&label=Quesillo%20Studio&up_color=yellow&up_message=WIP&url=https%3A%2F%2Fquesillostudios.com)](quesillo.me)
 
 ### Tools that I use 🔨
 [![Unity](https://img.shields.io/static/v1?label=Unity&message=⭐⭐⭐⭐&color=blue&style=for-the-badge&logo=unity&logoColor=white)](#)
