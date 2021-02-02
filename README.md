@@ -8,6 +8,14 @@
 - 💾 I’m learning about **shaders** `.hlsl` and *Shader Graph*.
 - 💊 I use everyday `.cs`, `.js`, `.cpp`, `.py`, `.gdscript`.
 
+<details>
+  <summary><b>Projects 💾</b></summary>
+  
+- Exodus, action videogame still in development.
+- [Hellheim](https://globalgamejam.org/2021/games/hellheim-3), a video game released on GGJ 2021 with other 3 team mates.
+- [High Speed Hands](https://play.google.com/store/apps/details?id=com.domiyes.highspeedhands), speed poker game developed with my team on Shokworks, Inc.
+</details>
+
 ### Contact me 🤝
 ##### Social links
 [![Aesthezel's | Twitter](https://img.shields.io/twitter/follow/aesthezel?label=Spy%20%40aesthezel&style=social)](https://twitter.com/intent/user?screen_name=aesthezel)
