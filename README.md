@@ -2,11 +2,12 @@
 *I'm a Game Developer and Concept Artist*
 
 ### About me 🏓
-- 🎓 I study Fine Arts (Promo 2022 *maybe*)
+- 🎓 I study Fine Arts (Promo ~2022~ 2023 *I guess*)
 - 🎮 I’m working on Game Develop (Since 2018)
 - 📐 I’m currently developing E-learning Game Developing guides called [**gAAAmedev**](https://www.youtube.com/playlist?list=PLPI6-ufVFSM3C-gLUTmQs87B7aQdxOZjI) _only in Spanish for now_.
+- 🎤 I record a podcast called [**Nivel Secreto**](https://anchor.fm/aesthezel) (in spanish speak) related about videogames in general.
 - 💾 I’m learning about **shaders** `.hlsl` and *Shader Graph*.
-- 💊 I use everyday `.cs`, `.js`, `.cpp`, `.py`, `.gdscript`.
+- 💊 I use everyday `.cs`, `.js`, `.cpp`, `.py`, `.gdscript`, `.lua`.
 
 <details>
   <summary><b>Projects 💾</b></summary>
