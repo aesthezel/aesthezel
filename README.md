@@ -4,7 +4,8 @@
 ### About me 🏓
 - 🎓 I study Fine Arts (Promo ~2022~ 2023 *I guess*)
 - 🎮 I’m working on Game Develop (Since 2018)
-- 📐 I’m currently developing E-learning Game Developing guides called [**gAAAmedev**](https://www.youtube.com/playlist?list=PLPI6-ufVFSM3C-gLUTmQs87B7aQdxOZjI) _only in Spanish for now_.
+- 🚩 I’ve prepare a [bootcamp to beginners on Unity](http://quesillo.me/bootcamp-unity) (_spanish only for now_), is totally free.
+- 📐 I’m currently developing E-learning Game Developing guides called [**Nivel Secreto**](https://www.youtube.com/playlist?list=PLPI6-ufVFSM3C-gLUTmQs87B7aQdxOZjI) _only in Spanish for now_.
 - 🎤 I record a podcast called [**Nivel Secreto**](https://anchor.fm/aesthezel) (in spanish speak) related about videogames in general.
 - 💾 I’m learning about **shaders** `.hlsl` and *Shader Graph*.
 - 💊 I use everyday `.cs`, `.js`, `.cpp`, `.py`, `.gdscript`, `.lua`.
@@ -13,6 +14,7 @@
   <summary><b>Projects 💾</b></summary>
   
 - Exodus, action videogame still in development.
+- [MEM-O-RAMA](https://aesthezel.itch.io/mem-o-rama), a video game released for the [GMTK2021 Game Jam](https://itch.io/jam/gmtk-2021/rate/1084568), made only by me.
 - [Hellheim](https://globalgamejam.org/2021/games/hellheim-3), a video game released on GGJ 2021 with other 3 team mates.
 - [High Speed Hands](https://play.google.com/store/apps/details?id=com.domiyes.highspeedhands), speed poker game developed with my team on Shokworks, Inc.
 </details>
@@ -26,7 +28,7 @@
 
 ### My websites 🌎
 [![Aesthezel's | Portfolio](https://img.shields.io/website?down_color=lightgrey&down_message=Woops%21&label=Portfolio&up_color=red&up_message=Updating&url=https%3A%2F%2Faesthezel.site)](http://quesillo.me/aesthezel)
-[![Quesillo Studios | Website](https://img.shields.io/website?down_color=lightgrey&down_message=Woops%21&label=Quesillo%20Studio&up_color=yellow&up_message=WIP&url=https%3A%2F%2Fquesillostudios.com)](http://quesillo.me)
+[![Quesillo Studios | Website](https://img.shields.io/website?down_color=lightgrey&down_message=Woops%21&label=Quesillo%20Studio&up_color=yellow&up_message=Up&url=https%3A%2F%2Fquesillostudios.com)](http://quesillo.me)
 
 ### Tools that I use 🔨
 [![Unity](https://img.shields.io/static/v1?label=Unity&message=⭐⭐⭐⭐&color=blue&style=for-the-badge&logo=unity&logoColor=white)](#)
