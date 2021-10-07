@@ -13,7 +13,9 @@
 <details>
   <summary><b>Projects 💾</b></summary>
   
-- Exodus, action videogame still in development.
+- Exodus and Destroy Invaders, action videogame still in development.
+- [Sir Alone](https://aesthezel.itch.io/sir-alone), a videogame (still in development), released in 7 days for a jam.
+- [Interview Duelist](https://kikritz.itch.io/interview-duelist), a jam videogame, done in 3 days.
 - [MEM-O-RAMA](https://aesthezel.itch.io/mem-o-rama), a video game released for the [GMTK2021 Game Jam](https://itch.io/jam/gmtk-2021/rate/1084568), made only by me.
 - [Hellheim](https://globalgamejam.org/2021/games/hellheim-3), a video game released on GGJ 2021 with other 3 team mates.
 - [High Speed Hands](https://play.google.com/store/apps/details?id=com.domiyes.highspeedhands), speed poker game developed with my team on Shokworks, Inc.
