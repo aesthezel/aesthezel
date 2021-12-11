@@ -2,7 +2,7 @@
 *I'm a Game Developer and Concept Artist*
 
 ### About me 🏓
-- 🎓 I study Fine Arts (Promo ~2022~ 2023 *I guess*)
+- 🎓 I study Fine Arts (Promo ~2022~ 2025 *I guess*)
 - 🎮 I’m working on Game Develop (Since 2018)
 - 🚩 I’ve prepare a [bootcamp to beginners on Unity](http://quesillo.me/bootcamp-unity) (_spanish only for now_), is totally free.
 - 📐 I’m currently developing E-learning Game Developing guides called [**Nivel Secreto**](https://www.youtube.com/playlist?list=PLPI6-ufVFSM3C-gLUTmQs87B7aQdxOZjI) _only in Spanish for now_.
@@ -14,7 +14,7 @@
   <summary><b>Projects 💾</b></summary>
   
 - Exodus and Destroy Invaders, action videogame still in development.
-- [Sir Alone](https://aesthezel.itch.io/sir-alone), a videogame (still in development), released in 7 days for a jam.
+- [Sir Alone](https://aesthezel.itch.io/sir-alone), a videogame (still in development), developed in 7 days for a jam.
 - [Interview Duelist](https://kikritz.itch.io/interview-duelist), a jam videogame, done in 3 days.
 - [MEM-O-RAMA](https://aesthezel.itch.io/mem-o-rama), a video game released for the [GMTK2021 Game Jam](https://itch.io/jam/gmtk-2021/rate/1084568), made only by me.
 - [Hellheim](https://globalgamejam.org/2021/games/hellheim-3), a video game released on GGJ 2021 with other 3 team mates.
