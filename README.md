@@ -12,7 +12,9 @@
 
 <details>
   <summary><b>Projects 💾</b></summary>
-  
+
+- [Zaperoco](https://quesillostudios.com/zaperoco), a folkloric fighting videogame about Venezuelan personalities and mythology.
+- [The Unfound Net](https://theunfound.net/), thriller noir about periodistic investigation that includes paranormal activity.
 - Exodus and Destroy Invaders, action videogame still in development.
 - [Sir Alone](https://aesthezel.itch.io/sir-alone), a videogame (still in development), developed in 7 days for a jam.
 - [Interview Duelist](https://kikritz.itch.io/interview-duelist), a jam videogame, done in 3 days.
