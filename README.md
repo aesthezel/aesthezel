@@ -38,10 +38,10 @@
 
 ### Tools that I use 🔨
 [![Unity](https://img.shields.io/static/v1?label=Unity&message=Advanced&color=green&style=for-the-badge&logo=unity&logoColor=white)](#)
-[![Godot Engine](https://img.shields.io/static/v1?label=Godot%20Engine&message=Middle&color=yellow&style=for-the-badge&logo=godot-engine&logoColor=white)](#)
-[![Visual Studio Code](https://img.shields.io/static/v1?label=VS%20Code&message=Knowledged&color=blueviolet&style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
 [![Krita](https://img.shields.io/static/v1?label=Krita&message=Advanced&color=green&style=for-the-badge&logo=krita&logoColor=white)](#)
+[![Visual Studio Code](https://img.shields.io/static/v1?label=VS%20Code&message=Knowledged&color=blueviolet&style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
+[![Azure Functions](https://img.shields.io/static/v1?label=Azure%20Functions&message=Middle&color=yellow&style=for-the-badge&logo=azurefunctions&logoColor=white)](https://www.bandlab.com/aesthezel)
+[![Godot Engine](https://img.shields.io/static/v1?label=Godot%20Engine&message=Middle&color=yellow&style=for-the-badge&logo=godot-engine&logoColor=white)](#)
 [![Affinity Designer](https://img.shields.io/static/v1?label=Affinity%20Designer&message=Middle&color=yellow&style=for-the-badge&logo=affinity-designer&logoColor=white)](#)
 [![Affinity Photo](https://img.shields.io/static/v1?label=Affinity%20Photo&message=Middle&color=yellow&style=for-the-badge&logo=affinity-photo&logoColor=white)](#)
 [![Band Lab](https://img.shields.io/static/v1?label=BandLab&message=Beginner&color=yellowgreen&style=for-the-badge&logo=bandlab&logoColor=white)](https://www.bandlab.com/aesthezel)
-[![Azure Functions](https://img.shields.io/static/v1?label=Azure%20Functions&message=Middle&color=yellow&style=for-the-badge&logo=azurefunctions&logoColor=white)](https://www.bandlab.com/aesthezel)
