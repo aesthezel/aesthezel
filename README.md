@@ -3,7 +3,7 @@
 
 ### About me 🏓
 - 🎓 I study Fine Arts (Promo ~2022~ 2025 *I guess or not*).
-- 👨‍🏫 I regularly give presentations and workshops[[1]](https://www.youtube.com/playlist?list=PLPI6-ufVFSM07vQDBfdoRaZJNdgUNruhG)[[2]](https://www.youtube.com/playlist?list=PLPI6-ufVFSM0FpQIz7Zw2D7Jxg_nzd2kZ) on gamedev.
+- 👨‍🏫 I regularly give presentations and workshops[[1]](https://www.youtube.com/playlist?list=PLPI6-ufVFSM07vQDBfdoRaZJNdgUNruhG)[[2]](https://www.youtube.com/playlist?list=PLPI6-ufVFSM0FpQIz7Zw2D7Jxg_nzd2kZ) about gamedev.
 - 🎮 I' working on Game Develop (Since 2018)
 - 🚩 I've prepare a [bootcamp to beginners on Unity](http://quesillo.me/bootcamp-unity) (_spanish only for now_), is totally free.
 - 📐 I'm currently developing E-learning Game Developing guides called [**Nivel Secreto**](https://www.youtube.com/playlist?list=PLPI6-ufVFSM3C-gLUTmQs87B7aQdxOZjI) _only in Spanish for now_.
