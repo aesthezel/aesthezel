@@ -1,9 +1,9 @@
 ## Hola, I'm David Pino 🥨
-*I'm a Game Developer and Concept Artist*
+*I'm a Game Developer and Concept Artist, now learning to be Game Designer*
 
 ### About me 🏓
 - 👨‍🏫 I regularly give presentations and workshops[[1]](https://www.youtube.com/playlist?list=PLPI6-ufVFSM07vQDBfdoRaZJNdgUNruhG)[[2]](https://www.youtube.com/playlist?list=PLPI6-ufVFSM0FpQIz7Zw2D7Jxg_nzd2kZ) about gamedev.
-- 🎮 I' working on Game Develop (Since 2018)
+- 🎮 I working professionally on Game Develop (Since 2018)
 - 🚩 I've prepare a [bootcamp to beginners on Unity](http://quesillo.me/bootcamp-unity) (_spanish only for now_), is totally free.
 - 📐 I'm currently developing E-learning Game Developing guides called [**Nivel Secreto**](https://www.youtube.com/playlist?list=PLPI6-ufVFSM3C-gLUTmQs87B7aQdxOZjI) _only in Spanish for now_.
 - 🎤 I record a podcast called [**Nivel Secreto**](https://anchor.fm/aesthezel) (in spanish speak) related about videogames in general.
@@ -14,7 +14,9 @@
 <details>
   <summary><b>Projects 💾</b></summary>
 
-- [Zaperoco](https://quesillostudios.com/zaperoco), a folkloric fighting videogame about Venezuelan personalities and mythology.
+- Kabloom!, upcoming tower defense game.
+- [Turn Jam #1](https://waunman.itch.io/turn-jam-1), the result game from a jam by turns. Each developers could not communicate with the others, and had to work in turns.
+- [Zaperoco](https://quesillostudios.com/zaperoco), a folkloric fighting videogame about Venezuelan personalities and folklore.
 - [The Unfound Net](https://theunfound.net/), thriller noir about periodistic investigation that includes paranormal activity.
 - Exodus and Destroy Invaders, action videogame still in development.
 - [Sir Alone](https://aesthezel.itch.io/sir-alone), a videogame (still in development), developed in 7 days for a jam.
@@ -39,10 +41,11 @@
 
 ### Tools that I use 🔨
 [![Unity](https://img.shields.io/static/v1?label=Unity&message=Advanced&color=green&style=for-the-badge&logo=unity&logoColor=white)](#)
+[![Godot Engine](https://img.shields.io/static/v1?label=Godot%20Engine&message=Advanced&color=green&style=for-the-badge&logo=godot-engine&logoColor=white)](#)
 [![Krita](https://img.shields.io/static/v1?label=Krita&message=Advanced&color=green&style=for-the-badge&logo=krita&logoColor=white)](#)
+[![Rider](https://img.shields.io/static/v1?label=Rider&message=Knowledged&color=blueviolet&style=for-the-badge&logo=rider&logoColor=white)](#)
 [![Visual Studio Code](https://img.shields.io/static/v1?label=VS%20Code&message=Knowledged&color=blueviolet&style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
 [![Azure Functions](https://img.shields.io/static/v1?label=Azure%20Functions&message=Middle&color=yellow&style=for-the-badge&logo=azurefunctions&logoColor=white)](#)
-[![Godot Engine](https://img.shields.io/static/v1?label=Godot%20Engine&message=Middle&color=yellow&style=for-the-badge&logo=godot-engine&logoColor=white)](#)
 [![Affinity Designer](https://img.shields.io/static/v1?label=Affinity%20Designer&message=Middle&color=yellow&style=for-the-badge&logo=affinity-designer&logoColor=white)](#)
 [![Affinity Photo](https://img.shields.io/static/v1?label=Affinity%20Photo&message=Middle&color=yellow&style=for-the-badge&logo=affinity-photo&logoColor=white)](#)
 [![Band Lab](https://img.shields.io/static/v1?label=BandLab&message=Beginner&color=yellowgreen&style=for-the-badge&logo=bandlab&logoColor=white)](https://www.bandlab.com/aesthezel)
