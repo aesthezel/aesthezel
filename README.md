@@ -18,7 +18,6 @@
 - Kabloom!, upcoming tower defense game.
 - [Turn Jam #1](https://waunman.itch.io/turn-jam-1), the result game from a jam by turns. Each developers could not communicate with the others, and had to work in turns.
 - [Zaperoco](https://quesillostudios.com/zaperoco), a folkloric fighting videogame about Venezuelan personalities and folklore.
-- [The Unfound Net](https://theunfound.net/), thriller noir about periodistic investigation that includes paranormal activity.
 - Exodus and Destroy Invaders, action videogame still in development.
 - [Sir Alone](https://aesthezel.itch.io/sir-alone), a videogame (still in development), developed in 7 days for a jam.
 - [Interview Duelist](https://kikritz.itch.io/interview-duelist), a jam videogame, done in 3 days.
