@@ -1,5 +1,5 @@
 ## Hola, I'm David Pino 🥨
-*I'm a Game Developer and Concept Artist, now learning to be Game Designer*
+*I'm a Game Developer, Back-end Developer and Concept Artist. Also learning more about Game Design*
 
 ### About me 🏓
 - 👨‍🏫 I regularly give presentations and workshops[[1]](https://www.youtube.com/playlist?list=PLPI6-ufVFSM07vQDBfdoRaZJNdgUNruhG)[[2]](https://www.youtube.com/playlist?list=PLPI6-ufVFSM0FpQIz7Zw2D7Jxg_nzd2kZ) about gamedev
@@ -8,7 +8,7 @@
 - 📐 I'm currently developing E-learning Game Developing guides called [**Nivel Secreto**](https://www.youtube.com/playlist?list=PLPI6-ufVFSM3C-gLUTmQs87B7aQdxOZjI) _only in Spanish for now_
 - 🎤 I record a podcast called [**Nivel Secreto**](https://anchor.fm/aesthezel) (in spanish speak) related about videogames in general
 - 💾 I'm learning about **shaders** `.hlsl` and *Shader Graph*, and procedural textures on Substance Designer a like programs
-- 💊 I use everyday `.cs`, `.js`, `.cpp`, `.py`, `.gdscript`, `.lua`
+- 💊 I use everyday `.cs`, `.js`, `.cpp`, `.py`, `.gdscript`, `.lua`, `.rs`
 - 🎓 I also study Fine Arts (Promo ~2022~ 2025 *I guess or not*)
 - 📦 We (my cousing and me) are doing assets packs located in [**itch page of Quesillo Studios**](https://quesillostudios.itch.io)
 
