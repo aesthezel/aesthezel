@@ -28,14 +28,16 @@
 </details>
 
 ### Contact me 🤝
-##### Social links
+#### Social links
 [![Aesthezel's | Twitter](https://img.shields.io/twitter/follow/aesthezel?label=Spy%20%40aesthezel&style=social)](https://twitter.com/intent/user?screen_name=aesthezel)
 [![Write me on Twitter](https://img.shields.io/static/v1?label=Write%20me&message=🖋&color=blue&style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Faesthezel&text=Hi%20@aesthezel%20..%21%20I%20view%20your%20awesome%20Github%20Profile&hashtags=github)
 [![Twitch Status](https://img.shields.io/twitch/status/aesthezel?style=social)](https://img.shields.io/twitch/status/aesthezel?label=Spy%20me&style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCP1rnfULo8Tu2NAJo2gBOFQ?style=social)
-##### Discord servers
-[![Quesillo Studios | Discord](https://img.shields.io/discord/652894509302153216?color=yellow&label=Quesillo%20Studios&logo=discord&logoColor=white)](http://quesillo.me/discord)
 
+### Discord servers
+[![Quesillo Studios | Discord](https://img.shields.io/discord/652894509302153216?style=for-the-badge&color=yellow&label=Quesillo%20Studios&logo=discord&logoColor=white)](http://quesillo.me/discord)
+</br>
+[![VE Game Devs | Discord](https://img.shields.io/discord/1227010193695703101?style=for-the-badge&logo=discord&logoColor=FFD400&label=Venezuela%20Game%20Developers&labelColor=437ee5&color=D90368)](https://discord.gg/tDwHS4ebWD)
 ### My websites 🌎
 [![Aesthezel's | Portfolio](https://img.shields.io/website?down_color=lightgrey&down_message=Woops%21&label=Portfolio&up_color=red&up_message=Updating&url=https%3A%2F%2Faesthezel.site)](http://quesillo.me/aesthezel)
 [![Quesillo Studios | Website](https://img.shields.io/website?down_color=lightgrey&down_message=Woops%21&label=Quesillo%20Studio&up_color=yellow&up_message=Up&url=https%3A%2F%2Fquesillostudios.com)](http://quesillo.me)
