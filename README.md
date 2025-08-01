@@ -39,6 +39,7 @@
 </br>
 [![VE Game Devs | Discord](https://img.shields.io/discord/1227010193695703101?style=for-the-badge&logo=discord&logoColor=FFD400&label=Venezuela%20Game%20Developers&labelColor=437ee5&color=D90368)](https://discord.gg/tDwHS4ebWD)
 ### My websites 🌎
+[![Venezuela Juega](https://img.shields.io/website?down_color=lightgrey&down_message=Woops%21&label=Venezuela%20Juega&up_color=red&up_message=Updating&url=https%3A%2F%2Fvenezuelajuega.com)](https://venezuelajuega.com)
 [![Aesthezel's | Portfolio](https://img.shields.io/website?down_color=lightgrey&down_message=Woops%21&label=Portfolio&up_color=red&up_message=Updating&url=https%3A%2F%2Faesthezel.site)](http://quesillo.me/aesthezel)
 [![Quesillo Studios | Website](https://img.shields.io/website?down_color=lightgrey&down_message=Woops%21&label=Quesillo%20Studio&up_color=yellow&up_message=Up&url=https%3A%2F%2Fquesillostudios.com)](http://quesillo.me)
 
