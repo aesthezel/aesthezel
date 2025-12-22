@@ -1,60 +1,69 @@
-## Hola, I'm David Pino 🥨
-*I'm a Game Developer, Back-end Developer and Concept Artist. Also learning more about Game Design*
+## 🥨 Hi there, I'm David Pino
+**Game Developer | Back-end Architect | Concept Artist**
+*Bridging the gap between robust code and immersive visual storytelling. Currently deepening my expertise in Game Design.*
 
-### About me 🏓
-- 👨‍🏫 I regularly give presentations and workshops[[1]](https://www.youtube.com/playlist?list=PLPI6-ufVFSM07vQDBfdoRaZJNdgUNruhG)[[2]](https://www.youtube.com/playlist?list=PLPI6-ufVFSM0FpQIz7Zw2D7Jxg_nzd2kZ) about gamedev
-- 🎮 I working professionally on Game Develop (Since 2018)
-- 🚩 I've prepare a [bootcamp to beginners on Unity](http://quesillo.me/bootcamp-unity) (_spanish only for now_), is totally free
-- 📐 I'm currently developing E-learning Game Developing guides called [**Nivel Secreto**](https://www.youtube.com/playlist?list=PLPI6-ufVFSM3C-gLUTmQs87B7aQdxOZjI) _only in Spanish for now_
-- 🎤 I record a podcast called [**Nivel Secreto**](https://anchor.fm/aesthezel) (in spanish speak) related about videogames in general
-- 💾 I'm learning about **shaders** `.hlsl` and *Shader Graph*, and procedural textures on Substance Designer a like programs
-- 💊 I use everyday `.cs`, `.js`, `.cpp`, `.py`, `.gdscript`, `.lua`, `.rs`
-- 🎓 I also study Fine Arts (Promo ~2022~ 2025 *I guess or not*)
-- 📦 We (my cousing and me) are doing assets packs located in [**itch page of Quesillo Studios**](https://quesillostudios.itch.io)
+---
 
+### 🏓 About Me
+I am a multi-disciplinary developer with a passion for education and community building within the game industry.
+
+* 👨‍🏫 **Educator:** I regularly lead [workshops and presentations](https://www.youtube.com/playlist?list=PLPI6-ufVFSM07vQDBfdoRaZJNdgUNruhG) about Game Development.
+* 🎮 **Professional Experience:** Building games professionally since 2018.
+* 🚩 **Unity Mentor:** I authored a [Free Unity Bootcamp](http://quesillo.me/bootcamp-unity) for beginners (currently in Spanish).
+* 📐 **Content Creator:** Producing [**Nivel Secreto**](https://www.youtube.com/playlist?list=PLPI6-ufVFSM3C-gLUTmQs87B7aQdxOZjI), a series of e-learning guides for game dev.
+* 🎙️ **Podcaster:** Host of [**Nivel Secreto**](https://anchor.fm/aesthezel), a podcast dedicated to video games and industry culture.
+* 💾 **Technical Artist in Training:** Mastering **HLSL shaders**, *Shader Graph*, and procedural texturing in Substance Designer.
+* 🎓 **Academic:** Fine Arts student (Expected Class of 2025).
+* 📦 **Asset Creator:** Co-founder of [Quesillo Studios](https://quesillostudios.itch.io), crafting high-quality asset packs for the community.
+
+---
+
+### 🛠️ Technical Arsenal
+
+**Languages & Technologies**
+`C#` • `C++` • `JavaScript` • `Python` • `GDScript` • `Lua` • `Rust` • `.hlsl`
+
+**Engines, Tools & Workflow**
+| Category | Tools |
+| :--- | :--- |
+| **Engines** | ![Unity](https://img.shields.io/badge/Unity-Advanced-green?style=flat-square&logo=unity) ![Godot](https://img.shields.io/badge/Godot_Engine-Advanced-green?style=flat-square&logo=godot-engine) |
+| **Backend** | ![Azure](https://img.shields.io/badge/Azure_Functions-Intermediate-yellow?style=flat-square&logo=azurefunctions) |
+| **IDE/Editors** | ![Rider](https://img.shields.io/badge/Rider-Expert-blueviolet?style=flat-square&logo=rider) ![WebStorm](https://img.shields.io/badge/WebStorm-Professional-blueviolet?style=flat-square&logo=webstorm) ![VS Code](https://img.shields.io/badge/VS_Code-Advanced-blueviolet?style=flat-square&logo=vscodium) |
+| **Art & Design** | ![Krita](https://img.shields.io/badge/Krita-Advanced-green?style=flat-square&logo=krita) ![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-Mid-yellow?style=flat-square&logo=affinity-designer) ![Affinity Photo](https://img.shields.io/badge/Affinity_Photo-Mid-yellow?style=flat-square&logo=affinity-photo) |
+| **Audio** | ![BandLab](https://img.shields.io/badge/BandLab-Beginner-yellowgreen?style=flat-square&logo=bandlab) |
+
+---
+
+### 💾 Selected Projects
 <details>
-  <summary><b>Projects 💾</b></summary>
+  <summary><b>Click to expand my portfolio</b></summary>
 
-- [Melt Engine](https://github.com/aesthezel/MeltEngine), open source game engine, melted with RayLib and PhysX.
-- Kabloom!, upcoming tower defense game.
-- [Turn Jam #1](https://waunman.itch.io/turn-jam-1), the result game from a jam by turns. Each developers could not communicate with the others, and had to work in turns.
-- [Zaperoco](https://quesillostudios.com/zaperoco), a folkloric fighting videogame about Venezuelan personalities and folklore.
-- Exodus and Destroy Invaders, action videogame still in development.
-- [Sir Alone](https://aesthezel.itch.io/sir-alone), a videogame (still in development), developed in 7 days for a jam.
-- [Interview Duelist](https://kikritz.itch.io/interview-duelist), a jam videogame, done in 3 days.
-- [MEM-O-RAMA](https://aesthezel.itch.io/mem-o-rama), a video game released for the [GMTK2021 Game Jam](https://itch.io/jam/gmtk-2021/rate/1084568), made only by me.
-- [Hellheim](https://globalgamejam.org/2021/games/hellheim-3), a video game released on GGJ 2021 with other 3 team mates.
-- [High Speed Hands](https://play.google.com/store/apps/details?id=com.domiyes.highspeedhands), speed poker game developed with my team on Shokworks, Inc.
+- **[Melt Engine](https://github.com/aesthezel/MeltEngine):** An open-source game engine built with RayLib and PhysX.
+- **Kabloom!:** An upcoming tactical tower defense game.
+- **[Turn Jam #1](https://waunman.itch.io/turn-jam-1):** A collaborative experiment where developers worked in turns without direct communication.
+- **[Zaperoco](https://quesillostudios.com/zaperoco):** A fighting game celebrating Venezuelan folklore and iconic personalities.
+- **Exodus and Destroy Invaders:** An action-packed project currently in active development.
+- **[Sir Alone](https://aesthezel.itch.io/sir-alone):** A narrative-driven project developed in just 7 days for a game jam.
+- **[Interview Duelist](https://kikritz.itch.io/interview-duelist):** A jam game completed in 3 days.
+- **[MEM-O-RAMA](https://aesthezel.itch.io/mem-o-rama):** A solo project released for the GMTK 2021 Game Jam.
+- **[Hellheim](https://globalgamejam.org/2021/games/hellheim-3):** A team-based project developed during Global Game Jam 2021.
+- **[High Speed Hands](https://play.google.com/store/apps/details?id=com.domiyes.highspeedhands):** A fast-paced poker game developed professionally at Shokworks, Inc.
 </details>
 
-### Contact me 🤝
-#### Social links
-[![Aesthezel's | Twitter](https://img.shields.io/twitter/follow/aesthezel?label=Spy%20%40aesthezel&style=social)](https://twitter.com/intent/user?screen_name=aesthezel)
+---
+
+### 🤝 Let's Connect
+
+**Socials & Portfolio**
+[![Twitter](https://img.shields.io/twitter/follow/aesthezel?label=Follow%20%40aesthezel&style=social)](https://twitter.com/intent/user?screen_name=aesthezel)
 [![Write me on Twitter](https://img.shields.io/static/v1?label=Write%20me&message=🖋&color=blue&style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Faesthezel&text=Hi%20@aesthezel%20..%21%20I%20view%20your%20awesome%20Github%20Profile&hashtags=github)
-[![Twitch Status](https://img.shields.io/twitch/status/aesthezel?style=social)](https://img.shields.io/twitch/status/aesthezel?label=Spy%20me&style=social)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCP1rnfULo8Tu2NAJo2gBOFQ?style=social)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCP1rnfULo8Tu2NAJo2gBOFQ?style=social)](https://www.youtube.com/@aesthezel)
 
-### Discord servers
-[![Quesillo Studios | Discord](https://img.shields.io/discord/652894509302153216?style=for-the-badge&color=yellow&label=Quesillo%20Studios&logo=discord&logoColor=white)](http://quesillo.me/discord)
-</br>
-[![VE Game Devs | Discord](https://img.shields.io/discord/1227010193695703101?style=for-the-badge&logo=discord&logoColor=FFD400&label=Venezuela%20Game%20Developers&labelColor=437ee5&color=D90368)](https://discord.gg/tDwHS4ebWD)
-### My websites 🌎
-[![Venezuela Juega](https://img.shields.io/website?down_color=lightgrey&down_message=Woops%21&label=Venezuela%20Juega&up_color=red&up_message=Updating&url=https%3A%2F%2Fvenezuelajuega.com)](https://venezuelajuega.com)
-[![Aesthezel's | Portfolio](https://img.shields.io/website?down_color=lightgrey&down_message=Woops%21&label=Portfolio&up_color=red&up_message=Updating&url=https%3A%2F%2Faesthezel.site)](http://quesillo.me/aesthezel)
-[![Quesillo Studios | Website](https://img.shields.io/website?down_color=lightgrey&down_message=Woops%21&label=Quesillo%20Studio&up_color=yellow&up_message=Up&url=https%3A%2F%2Fquesillostudios.com)](http://quesillo.me)
-
-### Tools that I use 🔨
-[![Unity](https://img.shields.io/static/v1?label=Unity&message=Advanced&color=green&style=for-the-badge&logo=unity&logoColor=white)](#)
-[![Godot Engine](https://img.shields.io/static/v1?label=Godot%20Engine&message=Advanced&color=green&style=for-the-badge&logo=godot-engine&logoColor=white)](#)
-</br>
-[![Azure Functions](https://img.shields.io/static/v1?label=Azure%20Functions&message=Middle&color=yellow&style=for-the-badge&logo=azurefunctions&logoColor=white)](#)
-</br>
-[![Rider](https://img.shields.io/static/v1?label=Rider&message=Knowledged&color=blueviolet&style=for-the-badge&logo=rider&logoColor=white)](#)
-[![WebStorm](https://img.shields.io/static/v1?label=WebStorm&message=Knowledged&color=blueviolet&style=for-the-badge&logo=webstorm&logoColor=white)](#)
-[![Visual Studio Code](https://img.shields.io/static/v1?label=VS%20Code&message=Knowledged&color=blueviolet&style=for-the-badge&logo=vscodium&logoColor=white)](#)
-</br>
-[![Affinity Designer](https://img.shields.io/static/v1?label=Affinity%20Designer&message=Middle&color=yellow&style=for-the-badge&logo=affinity-designer&logoColor=white)](#)
-[![Affinity Photo](https://img.shields.io/static/v1?label=Affinity%20Photo&message=Middle&color=yellow&style=for-the-badge&logo=affinity-photo&logoColor=white)](#)
-[![Krita](https://img.shields.io/static/v1?label=Krita&message=Advanced&color=green&style=for-the-badge&logo=krita&logoColor=white)](#)
-</br>
-[![Band Lab](https://img.shields.io/static/v1?label=BandLab&message=Beginner&color=yellowgreen&style=for-the-badge&logo=bandlab&logoColor=white)](https://www.bandlab.com/aesthezel)
+**Communities & Websites**
+| Platform | Link |
+| :--- | :--- |
+| **Quesillo Studios Discord** | [![Quesillo Studios](https://img.shields.io/discord/652894509302153216?style=for-the-badge&color=yellow&label=Join%20Server&logo=discord&logoColor=white)](http://quesillo.me/discord) |
+| **VE Game Developers** | [![VE Game Devs](https://img.shields.io/discord/1227010193695703101?style=for-the-badge&logo=discord&logoColor=FFD400&label=Join%20Community&labelColor=437ee5&color=D90368)](https://discord.gg/tDwHS4ebWD) |
+| **Venezuela Juega** | [![Website](https://img.shields.io/website?label=Venezuela%20Juega&up_color=red&up_message=Community&url=https%3A%2F%2Fvenezuelajuega.com)](https://venezuelajuega.com) |
+| **Personal Portfolio** | [![Portfolio](https://img.shields.io/website?label=Portfolio&up_message=Online&url=https%3A%2F%2Faesthezel.site)](http://quesillo.me/aesthezel) |
+| **Studio Website** | [![Quesillo Studio](https://img.shields.io/website?label=Quesillo%20Studio&up_color=yellow&up_message=Up&url=https%3A%2F%2Fquesillostudios.com)](http://quesillo.me) |
