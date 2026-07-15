@@ -4,24 +4,22 @@
 
 ---
 
-### 🏓 About Me
+### 🏓 About me
 I am a multi-disciplinary developer with a passion for education and community building within the game industry.
 
 * 👨‍🏫 **Educator:** I regularly lead [workshops and presentations](https://www.youtube.com/playlist?list=PLPI6-ufVFSM07vQDBfdoRaZJNdgUNruhG) about Game Development.
 * 🎮 **Professional Experience:** Building games professionally since 2018.
 * 🚩 **Unity Mentor:** I authored a [Free Unity Bootcamp](http://quesillo.me/bootcamp-unity) for beginners (currently in Spanish).
-* 📐 **Content Creator:** Producing [**Nivel Secreto**](https://www.youtube.com/playlist?list=PLPI6-ufVFSM3C-gLUTmQs87B7aQdxOZjI), a series of e-learning guides for game dev.
-* 🎙️ **Podcaster:** Host of [**Nivel Secreto**](https://anchor.fm/aesthezel), a podcast dedicated to video games and industry culture.
 * 💾 **Technical Artist in Training:** Mastering **HLSL shaders**, *Shader Graph*, and procedural texturing in Substance Designer.
 * 🎓 **Academic:** Fine Arts student (Expected Class of 2025).
 * 📦 **Asset Creator:** Co-founder of [Quesillo Studios](https://quesillostudios.itch.io), crafting high-quality asset packs for the community.
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical knowledge
 
 **Languages & Technologies**
-`C#` • `C++` • `JavaScript` • `Python` • `GDScript` • `Lua` • `Rust` • `.hlsl`
+`C#` • `C++` • `JavaScript & Typescript` • `Python` • `GDScript` • `Lua` • `Rust` • `.hlsl`
 
 **Engines, Tools & Workflow**
 | Category | Tools |
@@ -34,7 +32,7 @@ I am a multi-disciplinary developer with a passion for education and community b
 
 ---
 
-### 💾 Selected Projects
+### 💾 Selected projects
 <details>
   <summary><b>Click to expand my portfolio</b></summary>
 
@@ -52,14 +50,14 @@ I am a multi-disciplinary developer with a passion for education and community b
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Let's connect
 
 **Socials & Portfolio**
 [![Twitter](https://img.shields.io/twitter/follow/aesthezel?label=Follow%20%40aesthezel&style=social)](https://twitter.com/intent/user?screen_name=aesthezel)
 [![Write me on Twitter](https://img.shields.io/static/v1?label=Write%20me&message=🖋&color=blue&style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Faesthezel&text=Hi%20@aesthezel%20..%21%20I%20view%20your%20awesome%20Github%20Profile&hashtags=github)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCP1rnfULo8Tu2NAJo2gBOFQ?style=social)](https://www.youtube.com/@aesthezel)
 
-**Communities & Websites**
+**Communities & websites**
 | Platform | Link |
 | :--- | :--- |
 | **Quesillo Studios Discord** | [![Quesillo Studios](https://img.shields.io/discord/652894509302153216?style=for-the-badge&color=yellow&label=Join%20Server&logo=discord&logoColor=white)](http://quesillo.me/discord) |
